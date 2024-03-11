@@ -1,5 +1,5 @@
 # Contents
-- [Miejsce prawa finansowego w nauce prawa](#Wyklad 1)
+- [Wyklad 1](#Wyklad 1)
 - [Wykład 2](#Wyk2)
 
 
