@@ -31,11 +31,11 @@ czynności bankowe -> usługo, które zgodnie z prawem może świadczyć bank:
 
 ## Koncepcja nadzoru rynku finansowego
 Sektorowy 								| Zintegrowany 
+--- | ---
 Nadzór w którym poszczególne sektory 	| Jednolity organ
-były nadzorowane przez inne organy 		| Komisja nadzoru finansowego
-np komisja bankowa nadzorowała banki 	| nadzoruje rynek
-WADA: 									| WADA:
-nie zawsze wychwytuje błędy przez wielkie konglomeraty łączące sektory | za mało wyspecjalizowany ( ale raczej Marko nie dostrzega )
+były nadzorowane przez inne organy np komisja bankowa nadzorowała banki 			| Komisja nadzoru finansowego -> nadzoruje rynek
+WADA: nie zawsze wychwytuje błędy przez wielkie konglomeraty łączące sektory 									| WADA: za mało wyspecjalizowany ( ale raczej Marko nie dostrzega )
+
 
 ---
 
