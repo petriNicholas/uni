@@ -29,19 +29,19 @@ czynności bankowe -> usługo, które zgodnie z prawem może świadczyć bank:
 	- emitowanie bankowych papierów wartościowych
 	- przeprowadzanie bankowych rozliczeń pieniężnych
 
-## koncepcja nadzoru rynku finansowego
+## Koncepcja nadzoru rynku finansowego
 Sektorowy 								| Zintegrowany
---- 									| ---
+	| 
 Nadzór w którym poszczególne sektory 	| Jednolity organ
 były nadzorowane przez inne organy 		| Komisja nadzoru finansowego
 np komisja bankowa nadzorowała banki 	| nadzoruje rynek
---- 									| ---
+ | 
 WADA: 									| WADA:
 nie zawsze wychwytuje błędy przez wielkie konglomeraty łączące sektory | za mało wyspecjalizowany ( ale raczej Marko nie dostrzega )
 
 ---
 
-## zasady działania sektora bankowego
+## Zasady działania sektora bankowego
 
 ustawa prawo bankowe
 
