@@ -28,11 +28,11 @@ $\frac{K_n - K_0}{K_0 \cdot n} = r$
 
 $0 < t < n$
 
->$K_t = K_n - (n - t) \cdot k_0 \cdot r =$
-$	 = K_n - (n - t) \frac{K_n \cdot r}{1 + n \cdot r} =$
-$	 = K_n \cdot \frac{1 + n \cdot r - n \cdot r + t \cdot r}{1 + n \cdot r} =$
-$	 = K_n \frac{1 + t \cdot r}{1 + n \cdot r} =$
-$	 = K_n \cdot \frac{1}{1 + n \cdot r} \cdot (1 + t \cdot r)$
+>$K_t = K_n - (n - t) \cdot k_0 \cdot r = $
+$	 = K_n - (n - t) \frac{K_n \cdot r}{1 + n \cdot r} = $
+$	 = K_n \cdot \frac{1 + n \cdot r - n \cdot r + t \cdot r}{1 + n \cdot r} = $
+$	 = K_n \frac{1 + t \cdot r}{1 + n \cdot r} = $
+$	 = K_n \cdot \frac{1}{1 + n \cdot r} \cdot (1 + t \cdot r) $
 
 ##### Kapitalizacja prosta zgodna
 Przy kapitalizacji prostej częstotliwość kapitalizacji nie ma znaczenia
