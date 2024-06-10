@@ -123,4 +123,33 @@ prawo do otrzymania zasobow pienieznych moze wynikac z :
 zroznicowanie podmiotowe jest wyodrabnieniem naleznosci od:
 - kontrahentow (glownie odbiorcy)
 - instytucji publicznoprawnych
-- innych osób 
+- innych osób, w tym pracowników
+
+i z:
+- z tytułu dostaw i usług
+- z tytułu podatków, dotacji, cel, ubezpieczeń społecznych i zdrowotnych oraz innych świadczeń
+- z innych tytułów (np zaliczek dla pracowników)
+
+kolejne kryterium klasyfikacji należności jest okres osiągania z nich korzyści ekonomicznych
+
+okres dłuższy niż rok (**zasoby trwałe**) i krótsze (**zasoby obrotowe**)
+
+zasoby obrotowe cały czas krążą i zmieniają postać
+
+Materiały -> Pordukcja niezakończona -> wyroby gotowe -> należności -> środki pieniężne -> materiały -> ...
+
+zatem uwzglądniając czas wygląda to tak
+
+Zasoby trwałe:
+- wartości niematerialne i prawne
+- rzeczowe zasoby trwałe
+- należności długoterminowe
+- inwestycje długoterminowe
+
+Zasoby obrotowe:
+- zapasy (rzeczowe zasoby obrotowe)
+- należności krótkoterminowe
+- inwestycje krótkoterminowe
+
+
+###### Źródła finansowania zasobów
