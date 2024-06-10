@@ -94,3 +94,8 @@ cel nabycia:
 - nabyte w celach osiagniecia korzysci
 	- z przyrostu wartosci - nieruchomosci o charakterze lokat (jebac was przez was nie bede mial domu na wlasnosc skurwiele)
 	- uzyskania z nich przychodow w formie odsetek, dywidend i innych pozytkow (akcje, obligacje i inne zasoby finansowe)
+
+
+**inwestycje** - zasoby nabyte w celu osiagania korzysci w inny sposob niz ich wykorzystanie na potrzeby wlasnej dzialalnosci statutowej
+
+
