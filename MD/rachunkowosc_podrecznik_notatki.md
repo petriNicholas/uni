@@ -153,3 +153,5 @@ Zasoby obrotowe:
 
 
 ###### Źródła finansowania zasobów
+
+ocena sytuacji finansowej danej jednostki jest możliwa gdy do zestawienia wartości zasobów dodamy zestawienie wartości źródeł finansowania
