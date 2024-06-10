@@ -1,5 +1,8 @@
 title: Rachunkowosc
 
+
+##### Rodział_1
+
 metody poznawcze:
 - metoda podmiotowa
 	- obserwacja z punktu widzenia danej jednostki
@@ -49,7 +52,7 @@ Zasady rachunkowosci podporzadkowane koncepcji "rzetelnego i jasnego obrazu":
 - zasada kontynuacji dzialalnosci
 	- jednostka nie zamierza ani nie jest zmuszona do uszczuplenia skali swojej dzialalnosci
 
-
+##### Rozdzial_2
 Zasoby majatkowe:
 - zasoby rzeczowe
 - zasoby finansowe
@@ -98,4 +101,26 @@ cel nabycia:
 
 **inwestycje** - zasoby nabyte w celu osiagania korzysci w inny sposob niz ich wykorzystanie na potrzeby wlasnej dzialalnosci statutowej
 
+Inwestycje:
+- w nieruchomosci
+- w wartosci niematerialne i prawne
+- **zasoby finansowe**
+	- zasoby pieniezne
+	- instrumenty kapitalowe wyemitowane przez inne jednostki
+	- wynikajace z kontraktu prawo do otrzymania zasobow pienieznych
+	- prawo do wymiany instrumentu finansowego na korzystnych warunkach
 
+prawo do otrzymania zasobow pienieznych moze wynikac z :
+- zawartego kontraktu
+- obowiazujacych jednostek przepisow prawa ( podatki, dotacje, ubezpieczenia spoleczne)
+
+
+
+**naleznosci** to prawa do otrzymania zasobow pienieznych ktore:
+- nie wynikaja z kontraktow, lecz z przepisow prawa
+- wiaza sie z cyklem operacyjnym jednostki gospodarczej
+
+zroznicowanie podmiotowe jest wyodrabnieniem naleznosci od:
+- kontrahentow (glownie odbiorcy)
+- instytucji publicznoprawnych
+- innych osób 
