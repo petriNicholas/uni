@@ -155,3 +155,11 @@ Zasoby obrotowe:
 ###### Źródła finansowania zasobów
 
 ocena sytuacji finansowej danej jednostki jest możliwa gdy do zestawienia wartości zasobów dodamy zestawienie wartości źródeł finansowania
+
+
+źródła finansowania wskazują kto wyposażył jednostkę w zasoby określonej wartości i na jakich warunkach:
+- na cały okres jej istnienia - są to kapitały (fundusze własne) stanowiące równowartość wkładu właściciela lub wypracowany przez jednostkę zysk
+- na określony czas - są to zobowiązania stanowiące zadłużenie jednostki wobec innych jednostek i osób
+	- banków
+	- kontrahentów
+	- pożyczkodawców
