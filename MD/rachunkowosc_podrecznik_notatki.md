@@ -163,3 +163,49 @@ ocena sytuacji finansowej danej jednostki jest możliwa gdy do zestawienia warto
 	- banków
 	- kontrahentów
 	- pożyczkodawców
+
+kapitały własne i zobowiązania to są zasoby majątkowe
+
+**zobowiązania** informują o tym, jakie kwoty mają zostać zapłacone w przyszłości. jeżeli w ciągu roku to **krótkoterminowe**, a jeżeli dłużej to **długoterminowe**
+
+źródła finansowania zasobów:
+- kapitał własny
+- zobowiązania długoterminowe
+- zobowiązania krótkoterminowe
+
+kapitał (lub fundusz) własny:
+- kapitał podstawowy - równowartość wkładu właściciela
+- kapitał zapasowy - hajs na pokrycie ewentualnych strat
+- kapitał rezerwowy - fundusz na określone przedsięwzięcia np badania i rozwój
+- wynik finansowy netto - zysk lub strata netto (zwiększa lub zmniejsza kapitał własny)
+
+zobowiązania:
+- finansowe
+	- kredyty i pożyczki
+	- z tytułu emisji dłużnych papierów wartościowych
+	- inne zobowiązania finansowe
+- pozostałe
+	- z tytułu dostaw i usług
+	- z tytułu podatków, ceł, ubezpieczeń i innych świadczeń
+	- z tytułu wynagrodzeń
+	- inne zobowiązania
+
+zobowiązania finansowe - zobowiązania jednostki do:
+- wydania zasobów finansowych
+- wymiany instrumentu finansowego z inną jednostką na niekorzystnych warunkach
+
+zobowiązania finansowe:
+- kredyty - kwoty środków oddanych przez kredytodawcę do dyspozycji kredytobiorcy
+- pożyczki - pożyczenie czegoś i oddanie tego samego ( pożyczam x oddaje x, pożyczam n kasy oddaje n kasy)
+- z tytułu emisji dłużnych papierów wartościowych - obligacje, bony, losy loteryjne, polisy ubezpieczeniowe
+- inne zobowiązania finansowe - wystawione opcje kupna/sprzedaży
+
+- pozostałe
+	- z tytułu dostaw i usług - zobowiązania wobec dostawców
+	- z tytułu podatków, ceł, ubezpieczeń i innych świadczeń - wobec budżetów, urzędów celnych, ZUS
+	- z tytułu wynagrodzeń - wobec pracowników za wykonaną na rzecz jednostki pracę
+	- inne zobowiązania - ubezpieczenia majątkowe, wobec pracowników (inne niż wynagrodzenie)
+
+###### Wynik finansowy
+
+**wynik finansowy** może być dodatni **zysk** albo ujemny **strata**
