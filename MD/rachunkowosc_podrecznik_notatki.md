@@ -68,20 +68,35 @@ MSR (Międzynarodowe Standardy Rachunkowości) i MSSF (Międzynarodowe Standardy
 
 Biegły rewident to osoba uprawniona do badania sprawozdań finansowych. Badanie ksiąg rachunkowych przez biegłego rewidenta jest obowiązkowe dla:
 
-    Spółek akcyjnych
-    Niektórych spółek z o.o. (jeśli spełniają określone kryteria)
-    Banków
-    Zakładów ubezpieczeń
+- Spółek akcyjnych
+- Niektórych spółek z o.o. (jeśli spełniają określone kryteria)
+- Banków
+- Zakładów ubezpieczeń
 
 5. Księgi rachunkowe – budowa
 
 Księgi rachunkowe obejmują:
 
-    Dziennik
-    Księga główna
-    Księgi pomocnicze
-    Zestawienia obrotów i sald
-    Wykaz składników aktywów i pasywów
+- Dziennik - służy do zapisu chronologicznego operacji gospodarczych (dzien po dniu). zapisy numerowane, a obroty (suma zapisów) liczone w sposób ciągły 
+- Księga główna (ewidencja syntetyczna) - ujecie zapisów w sposób systematyczny, na kontach przewidzanych w zakładowym planie kont. 
+- Księgi pomocnicze (ewidencja analityczna) - służy uszczegółowieniu i uzupełnieniu zapisów księgi głównej. prowadzi sie je jako wyodrebniony system ksiag kartotek (zbiorow kont)
+- Zestawienia obrotów i sald ksiegi głównej oraz zestawienie sald kont ksiag pomocniczych - zestawnie sporzadza sie na koniec okresu sprawozdawczego, nie rzadziej niz na koniec kazdego miesiaca. zawiera ono:
+	- symbole/nazwy kont
+	- salda kont
+	- sumę sald
+- Wykaz składników aktywów i pasywów (inwentarz) - potwierdzony inwentaryzacją. sporządzają go jednostki, które uprzednio nie prowadziły ksiąg rachunkowych w sposób określony ustawą o rachunkowości. w pozostałych jednostkach rolę inwentarza spełnia zestawienie obrotów i sald kont księgi głównej oraz pomocniczych
+
+ksiegi rachunkowe powinny być:
+- trwale oznaczone nazwą jednostki
+- wyraźnie oznaczone co do roku obrotowego, okresu sprawozdawczego i daty sporzadzenia
+- przechowywane starannie w ustalonej kolejności
+
+zasady prowadzenia ksiag rachunkowych:
+- rzetelnie
+- bezbłędnie
+- sprawdzalnie
+- bieżąco
+
 
 6. Księgi rachunkowe - zasady prowadzenia, zatwierdzanie - terminy, przechowywanie - terminy
 
