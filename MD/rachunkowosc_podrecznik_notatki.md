@@ -58,7 +58,7 @@ Do prowadzenia ksiąg rachunkowych zobowiązane są m.in.:
     Spółdzielnie
     Przedsiębiorstwa państwowe
     Jednostki budżetowe
-    Osoby fizyczne prowadzące działalność gospodarczą, jeśli ich przychody za poprzedni rok podatkowy przekroczyły limit określony w ustawie.
+    Osoby fizyczne prowadzące działalność gospodarczą, jeśli ich przychody za poprzedni rok podatkowy przekroczyły limit określony w ustawie (2 mln euro).
 
 3. Pojęcia - MSR, MSSF, KSR - warunki stosowania
 
