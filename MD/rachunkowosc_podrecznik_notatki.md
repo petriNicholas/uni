@@ -1,211 +1,155 @@
 title: Rachunkowosc
 
+1. Pojęcie rachunkowości, rodzaje rachunkowości, funkcje, zadania, odbiorcy
 
-##### Rodział_1
+Rachunkowość to system informacyjny, który mierzy działalność gospodarczą, przetwarza dane w raporty finansowe i przekazuje wyniki decydentom. Rodzaje rachunkowości to: finansowa, zarządcza, podatkowa, bankowa.
 
-metody poznawcze:
-- metoda podmiotowa
-	- obserwacja z punktu widzenia danej jednostki
-- metoda bilansowa
-	- zdarzenia ujmowane dwustronnie 
-	- szukanie rownowagi miedzy mierzalnymi cechanmi srodkow i zjawisk
-- metoda momentow i okresow sprawozdawczych
-	- wielkosc zasobow i srodkow jednostki
-	- rozmiarow procesow gospodarczych pomiedzy momentami sprawozdawczymi ( ewidencja ciagla - rozpoczyna sie wraz z jej powstaniem a konczy wraz z jej zakonczeniem)
-- metoda grupowania
-	- tworzenie grup oparta na wspolnych elementach zbioru ( selekcja (ustalenie co podlega ewidencji) albo logiczna klasyfikacja zjawisk (dzielenie i laczenie kont))
-- metoda wyceny
-	- ujmuje sie tylko zdarzenia ktore mozna wycenic
-	- miernikiem jest waluta kraju
-	- wszystkie zapasy i materialy (takze ich ilosc) mozna przeliczyc na wartosc pieniezna
+Funkcje rachunkowości:
 
+    Pomiar i rejestracja zdarzeń gospodarczych
+    Sporządzanie raportów finansowych
+    Analiza finansowa
+    Kontrola wewnętrzna
 
-poprawnie zrobiona rachunkowosc daje:
-- dane do podejmowania decyzji
-- kontrole terminowosc i roliczen finansowych
-- kontrole celowosci zyzycia czynnikow produkcji
-- wykonanie planowanych zdarzen
-- ochrona mienia zaangazowanego w danym podmiocie
+Zadania rachunkowości:
 
-czyli spelnia funkcja
-- informacyjna
-- rozliczeniowa
-- atestacyjna
+    Rejestracja zdarzeń gospodarczych
+    Sporządzanie sprawozdań finansowych
+    Analiza i interpretacja danych finansowych
 
+Odbiorcy:
 
-Zasady rachunkowosci podporzadkowane koncepcji "rzetelnego i jasnego obrazu":
-- zasada memorialu
-	- ujac w ksiegach przychody i koszta
-- zasada wspolmiernosci
-	- na wynik finansowy skladaja sie osiagniete przychody i koszty
-- zasada periodyzacji
-	- podzial zdarzen gospodarczych na okresy czasu
-- zasada istotnosci
-	- wyodrebnienie do ksiag wszystkich zdarzen istotnych
-- zasada ciaglosci
-	- stosowanie tego samego sposobu postepowania w kolejnych latach
-- zasada ostroznej wyceny (ostroznosi)
-	- w sposobie wyceny skladnikow majatkowych
-	- zaliczenia przychodow, kosztow, strat i zyskow do wynikow danego okresu
-- zasada wyzszosci tresci nad forma
-	- zdarzenia musza byc ujete w ksiegach, a potem w sprawozdaniach finansowych zgodnie z trescia i prawda ekonomiczna, nawet jesli z formalnego pkt widzenia nie powinny tam sie znalezc
-- zasada kontynuacji dzialalnosci
-	- jednostka nie zamierza ani nie jest zmuszona do uszczuplenia skali swojej dzialalnosci
+    Właściciele
+    Zarząd
+    Inwestorzy
+    Kredytodawcy
+    Organy podatkowe
 
-##### Rozdzial_2
-Zasoby majatkowe:
-- zasoby rzeczowe
-- zasoby finansowe
-- wartosci niematerialne i prawne
+2. Podmioty zobligowane do prowadzenia ksiąg rachunkowych
 
-zasoby rzeczowe - skladniki ktore maja postac rzeczy:
-- srodki pracy - uczestnicza w wielu cyklach produkcjnych i stopniowo traca wartosc przenoszac ja na wytworzone produkty
-	- srodki trwale
-		- nieruchomosci
-		- maszyny i urzadzenia
-		- srodki transportu
-		- inne srodki trwale
-- przedmioty pracy - zuzywaja sie calkowicie w jednym cyklu produkcyjnym
-	- materialy
-	- surowce
-- produkty pracy - efekt procesu produkcyjnego danej jednostki gospodarczej (wykonane uslugi i wyroby ( gotowe albo w toku))
-	- polprodukty i produkty w toku
-	- produkty gotowe
-- towary
-	- skladniki zakupione celem odsprzedazy
+Do prowadzenia ksiąg rachunkowych zobowiązane są m.in.:
 
+    Spółki handlowe (z o.o., akcyjne)
+    Spółdzielnie
+    Przedsiębiorstwa państwowe
+    Jednostki budżetowe
+    Osoby fizyczne prowadzące działalność gospodarczą, jeśli ich przychody za poprzedni rok podatkowy przekroczyły limit określony w ustawie.
 
-finansowe zasoby jednostki
-- zasoby pieniezne
-- papiery wartosciowe
-	- obligacje
-	- bony
-	- polisy
-- udzielone pozyczki
-- srodki pieniezne i inne zasoby finansowe
+3. Pojęcia - MSR, MSSF, KSR - warunki stosowania
 
-wartosci niematerialne i prawne
-- autorskie prawa majatkowe i prawa pokrewne, licencje, koncesje
-- prawa do wynalazkow, patentow, znakow towarowych etc
-- know how
-- goodwill (nabyta wartosc firmy)
-- koszty zakonczonych prac rozwojowych
+MSR (Międzynarodowe Standardy Rachunkowości) i MSSF (Międzynarodowe Standardy Sprawozdawczości Finansowej) to standardy rachunkowości, które określają zasady sporządzania sprawozdań finansowych, obowiązujące na świecie. KSR (Krajowe Standardy Rachunkowości) to standardy obowiązujące w Polsce. Warunki stosowania zależą od rodzaju jednostki i jej działalności oraz wymogów prawnych.
+4. Biegły rewident – badanie ksiąg rachunkowych – podmioty zobligowane
 
-Kolejne kryterium zasobow majatkowych to cel ich pozyskania
-cel nabycia:
-- wykorzystanych przez jednostke na wlasne potrzeby - srodki trwale, materialy i towary
-- nabyte w celach osiagniecia korzysci
-	- z przyrostu wartosci - nieruchomosci o charakterze lokat (jebac was przez was nie bede mial domu na wlasnosc skurwiele)
-	- uzyskania z nich przychodow w formie odsetek, dywidend i innych pozytkow (akcje, obligacje i inne zasoby finansowe)
+Biegły rewident to osoba uprawniona do badania sprawozdań finansowych. Badanie ksiąg rachunkowych przez biegłego rewidenta jest obowiązkowe dla:
 
+    Spółek akcyjnych
+    Niektórych spółek z o.o. (jeśli spełniają określone kryteria)
+    Banków
+    Zakładów ubezpieczeń
 
-**inwestycje** - zasoby nabyte w celu osiagania korzysci w inny sposob niz ich wykorzystanie na potrzeby wlasnej dzialalnosci statutowej
+5. Księgi rachunkowe – budowa
 
-Inwestycje:
-- w nieruchomosci
-- w wartosci niematerialne i prawne
-- **zasoby finansowe**
-	- zasoby pieniezne
-	- instrumenty kapitalowe wyemitowane przez inne jednostki
-	- wynikajace z kontraktu prawo do otrzymania zasobow pienieznych
-	- prawo do wymiany instrumentu finansowego na korzystnych warunkach
+Księgi rachunkowe obejmują:
 
-prawo do otrzymania zasobow pienieznych moze wynikac z :
-- zawartego kontraktu
-- obowiazujacych jednostek przepisow prawa ( podatki, dotacje, ubezpieczenia spoleczne)
+    Dziennik
+    Księga główna
+    Księgi pomocnicze
+    Zestawienia obrotów i sald
+    Wykaz składników aktywów i pasywów
 
+6. Księgi rachunkowe - zasady prowadzenia, zatwierdzanie - terminy, przechowywanie - terminy
 
+Zasady prowadzenia:
 
-**naleznosci** to prawa do otrzymania zasobow pienieznych ktore:
-- nie wynikaja z kontraktow, lecz z przepisow prawa
-- wiaza sie z cyklem operacyjnym jednostki gospodarczej
+    Pełna rzetelność
+    Jasność i przejrzystość
+    Ciągłość
+    Uwierzytelnienie przez uprawnioną osobę
 
-zroznicowanie podmiotowe jest wyodrabnieniem naleznosci od:
-- kontrahentow (glownie odbiorcy)
-- instytucji publicznoprawnych
-- innych osób, w tym pracowników
+Zatwierdzanie i przechowywanie:
 
-i z:
-- z tytułu dostaw i usług
-- z tytułu podatków, dotacji, cel, ubezpieczeń społecznych i zdrowotnych oraz innych świadczeń
-- z innych tytułów (np zaliczek dla pracowników)
+    Księgi rachunkowe muszą być prowadzone zgodnie z określonymi przepisami i zatwierdzone przez osoby upoważnione.
+    Przechowywanie ksiąg rachunkowych przez co najmniej 5 lat.
 
-kolejne kryterium klasyfikacji należności jest okres osiągania z nich korzyści ekonomicznych
+7. Zasady rachunkowości
 
-okres dłuższy niż rok (**zasoby trwałe**) i krótsze (**zasoby obrotowe**)
+    Memoriałowa: operacje gospodarcze są ujmowane w momencie ich zaistnienia.
+    Koszt historyczny: wycena aktywów i pasywów według kosztu ich nabycia.
+    Kontynuacja działalności: założenie, że jednostka będzie kontynuować działalność w dającej się przewidzieć przyszłości.
+    Współmierność przychodów i kosztów: przypisywanie kosztów do okresu, w którym zostały osiągnięte przychody.
 
-zasoby obrotowe cały czas krążą i zmieniają postać
+8. Polityka rachunkowości
 
-Materiały -> Pordukcja niezakończona -> wyroby gotowe -> należności -> środki pieniężne -> materiały -> ...
+Polityka rachunkowości to zbiór zasad, reguł i praktyk stosowanych przez jednostkę przy sporządzaniu sprawozdań finansowych. Obejmuje m.in. zasady wyceny aktywów i pasywów, zasady amortyzacji, metody ewidencji przychodów i kosztów.
+9. Budowa i mechanizm działania bilansu, rachunku zysków i strat, informacji dodatkowej
 
-zatem uwzglądniając czas wygląda to tak
+Bilans: dwustronne zestawienie aktywów (majątek jednostki) i pasywów (źródła finansowania majątku).
 
-Zasoby trwałe:
-- wartości niematerialne i prawne
-- rzeczowe zasoby trwałe
-- należności długoterminowe
-- inwestycje długoterminowe
+Rachunek zysków i strat: zestawienie przychodów i kosztów, które pozwala określić wynik finansowy jednostki.
 
-Zasoby obrotowe:
-- zapasy (rzeczowe zasoby obrotowe)
-- należności krótkoterminowe
-- inwestycje krótkoterminowe
+Informacja dodatkowa: uzupełnia dane z bilansu i rachunku zysków i strat, dostarczając dodatkowych informacji niezbędnych do zrozumienia sytuacji finansowej jednostki.
+10. Budowa i znaczenie Cash Flow, zestawienia zmian w kapitale (funduszu)
 
+Cash Flow: raport przepływów pieniężnych, ukazujący wpływy i wydatki środków pieniężnych z działalności operacyjnej, inwestycyjnej i finansowej.
 
-###### Źródła finansowania zasobów
+Zestawienia zmian w kapitale: raport ukazujący zmiany w kapitale własnym jednostki w danym okresie, uwzględniający zyski i straty, emisję nowych udziałów, wypłatę dywidend itp.
+11. Konta księgowe, budowa, salda, mechanizm działania, storno
 
-ocena sytuacji finansowej danej jednostki jest możliwa gdy do zestawienia wartości zasobów dodamy zestawienie wartości źródeł finansowania
+Konto księgowe: podstawowy element księgowości, służący do ewidencji operacji gospodarczych. Składa się z dwóch stron: Wn (Winien) i Ma (Ma).
 
+Saldo: różnica między sumą obrotów strony Wn i Ma. Saldo początkowe (otwarcia), obroty i saldo końcowe (zamknięcia).
 
-źródła finansowania wskazują kto wyposażył jednostkę w zasoby określonej wartości i na jakich warunkach:
-- na cały okres jej istnienia - są to kapitały (fundusze własne) stanowiące równowartość wkładu właściciela lub wypracowany przez jednostkę zysk
-- na określony czas - są to zobowiązania stanowiące zadłużenie jednostki wobec innych jednostek i osób
-	- banków
-	- kontrahentów
-	- pożyczkodawców
+Mechanizm storno: metoda poprawiania błędów księgowych poprzez zapis przeciwny do błędnego zapisu.
+12. Wycena - cena zakupu, cena nabycia, koszt wytworzenia, cena sprzedaży, wartość godziwa
 
-kapitały własne i zobowiązania to są zasoby majątkowe
+    Cena zakupu: cena płacona za towar bez dodatkowych kosztów.
+    Cena nabycia: cena zakupu powiększona o koszty nabycia (transport, ubezpieczenie).
+    Koszt wytworzenia: suma kosztów bezpośrednich i przypadających na produkt kosztów pośrednich.
+    Cena sprzedaży: cena, za którą towar jest sprzedawany.
+    Wartość godziwa: szacunkowa wartość aktywów lub pasywów, którą można uzyskać na wolnym rynku.
 
-**zobowiązania** informują o tym, jakie kwoty mają zostać zapłacone w przyszłości. jeżeli w ciągu roku to **krótkoterminowe**, a jeżeli dłużej to **długoterminowe**
+13. Rola wyniku finansowego, zasady obliczania i rozliczania
 
-źródła finansowania zasobów:
-- kapitał własny
-- zobowiązania długoterminowe
-- zobowiązania krótkoterminowe
+Wynik finansowy (zysk lub strata) jest miarą efektywności działalności jednostki. Oblicza się go poprzez porównanie przychodów z kosztami za dany okres. Zasady rozliczania wyniku finansowego obejmują m.in. naliczanie podatku dochodowego i podział zysku na dywidendy.
+14. Środki trwałe, WNP, inwestycje długoterminowe
 
-kapitał (lub fundusz) własny:
-- kapitał podstawowy - równowartość wkładu właściciela
-- kapitał zapasowy - hajs na pokrycie ewentualnych strat
-- kapitał rezerwowy - fundusz na określone przedsięwzięcia np badania i rozwój
-- wynik finansowy netto - zysk lub strata netto (zwiększa lub zmniejsza kapitał własny)
+    Środki trwałe: aktywa o długim okresie użytkowania (powyżej roku), np. budynki, maszyny.
+    WNP (wartości niematerialne i prawne): aktywa niematerialne, np. patenty, licencje.
+    Inwestycje długoterminowe: lokaty kapitałowe z zamiarem długoterminowego przetrzymania, np. akcje, obligacje.
 
-zobowiązania:
-- finansowe
-	- kredyty i pożyczki
-	- z tytułu emisji dłużnych papierów wartościowych
-	- inne zobowiązania finansowe
-- pozostałe
-	- z tytułu dostaw i usług
-	- z tytułu podatków, ceł, ubezpieczeń i innych świadczeń
-	- z tytułu wynagrodzeń
-	- inne zobowiązania
+15. Odpisy amortyzacyjne
 
-zobowiązania finansowe - zobowiązania jednostki do:
-- wydania zasobów finansowych
-- wymiany instrumentu finansowego z inną jednostką na niekorzystnych warunkach
+Odpisy amortyzacyjne to systematyczne rozliczanie kosztów związanych z używaniem środków trwałych i WNP w czasie ich użytkowania. Amortyzacja obniża wartość księgową tych aktywów.
+16. Trwała utrata wartości
 
-zobowiązania finansowe:
-- kredyty - kwoty środków oddanych przez kredytodawcę do dyspozycji kredytobiorcy
-- pożyczki - pożyczenie czegoś i oddanie tego samego ( pożyczam x oddaje x, pożyczam n kasy oddaje n kasy)
-- z tytułu emisji dłużnych papierów wartościowych - obligacje, bony, losy loteryjne, polisy ubezpieczeniowe
-- inne zobowiązania finansowe - wystawione opcje kupna/sprzedaży
+Trwała utrata wartości następuje, gdy wartość aktywów jest wyższa od ich wartości odzyskiwalnej. W takim przypadku dokonuje się odpisu aktualizującego wartość tych aktywów.
+17. Należności i odpisy aktualizujące
 
-- pozostałe
-	- z tytułu dostaw i usług - zobowiązania wobec dostawców
-	- z tytułu podatków, ceł, ubezpieczeń i innych świadczeń - wobec budżetów, urzędów celnych, ZUS
-	- z tytułu wynagrodzeń - wobec pracowników za wykonaną na rzecz jednostki pracę
-	- inne zobowiązania - ubezpieczenia majątkowe, wobec pracowników (inne niż wynagrodzenie)
+Należności: kwoty należne jednostce od innych podmiotów.
 
-###### Wynik finansowy
+Odpisy aktualizujące: korekty wartości należności, dokonywane w przypadku ryzyka niewypłacalności dłużnika.
+18. Zapasy – towary – hurt, detal
 
-**wynik finansowy** może być dodatni **zysk** albo ujemny **strata**
+Zapasy: aktywa przeznaczone do sprzedaży w normalnym toku działalności gospodarczej.
+
+Hurt: sprzedaż dużych ilości towarów po niższych cenach.
+
+Detal: sprzedaż pojedynczych produktów bezpośrednio konsumentom po wyższych cenach.
+19. RMK czynne, RMK bierne, RMP
+
+    RMK czynne (rozliczenia międzyokresowe kosztów): koszty poniesione z góry, dotyczące przyszłych okresów.
+    RMK bierne: zobowiązania za usługi otrzymane, ale jeszcze nie opłacone.
+    RMP (rezerwy na przyszłe zobowiązania): zobowiązania przyszłe, które są pewne lub prawdopodobne, ale nieznane co do kwoty lub terminu.
+
+20. Struktura szczegółowa przychodów – zespół 7
+
+Zespół 7 to grupa kont służących do ewidencji przychodów jednostki, umożliwiająca szczegółową analizę źródeł przychodów.
+21. Struktura szczegółowa kosztów – zespół 4,5,7
+
+    Zespół 4: koszty według rodzajów (np. materiały, wynagrodzenia).
+    Zespół 5: koszty według funkcji (np. koszty produkcji, sprzedaży).
+    Zespół 7: przychody i koszty związane z działalnością operacyjną.
+
+22. Inwentaryzacja
+
+Inwentaryzacja to proces ustalania rzeczywistego stanu aktywów i pasywów jednostki. Może być przeprowadzana metodą pełną (spis z natury) lub metodą porównawczą (weryfikacja dokumentacji).
