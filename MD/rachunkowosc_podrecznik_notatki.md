@@ -2,13 +2,20 @@ title: Rachunkowosc
 
 1. Pojęcie rachunkowości, rodzaje rachunkowości, funkcje, zadania, odbiorcy
 
-Rachunkowość to system informacyjny, który mierzy działalność gospodarczą, przetwarza dane w raporty finansowe i przekazuje wyniki decydentom. Rodzaje rachunkowości to: finansowa, zarządcza, podatkowa, bankowa.
+Rachunkowość to system informacyjny, który mierzy działalność gospodarczą w formie pieniężnej, przetwarza dane w raporty finansowe i przekazuje wyniki decydentom. Rodzaje rachunkowości to: finansowa, zarządcza, podatkowa, bankowa.
+
+metody poznawcze:
+- podmiotowa - rejestrujemy wydarzenia z punktu widzenia jednostki
+- bilansowa - wszystkie zdarzenia ujmowane są dwustronnie 
+- momentów i okresów sprawozdawczych - ciągła ewidencja i ścisłe liczbowe określenie zasobów w danym momencie
+- grupowania - grupowanie zdarzeń oparte na selekcji (które tak które nie) albo logicznej klasyfikacji zdarzeń (dzielenie i łączenie kont)
+- wycena - wszystko ująć wartościowo
 
 Funkcje rachunkowości:
 
     Pomiar i rejestracja zdarzeń gospodarczych
     Sporządzanie raportów finansowych
-    Analiza finansowa
+    Analiza finansowa - dostarczenie niezbędnych danych do podejmowania decyzji
     Kontrola wewnętrzna
 
 Zadania rachunkowości:
@@ -25,6 +32,24 @@ Odbiorcy:
     Kredytodawcy
     Organy podatkowe
 
+Zasady rachunkowości:
+
+Zasada memoriału - (zasada akrualna) oznacza, że operacje gospodarcze są ujmowane w księgach rachunkowych w momencie ich zaistnienia, niezależnie od terminu przepływu środków pieniężnych. Oznacza to, że przychody i koszty są rejestrowane w okresie, którego dotyczą, a nie wtedy, kiedy faktycznie następuje zapłata.
+
+Zasada współmierności - polega na przypisywaniu przychodów do okresu, w którym zostały osiągnięte, oraz odpowiednich kosztów do tych samych okresów. Oznacza to, że koszty poniesione w celu uzyskania określonych przychodów powinny być ujęte w tym samym okresie co te przychody.
+
+Zasada periodyzacji - (zasada okresowości) oznacza podział czasu na okresy obrachunkowe (np. miesiące, kwartały, lata), w ramach których rejestrowane są przychody i koszty. Daje to możliwość oceny wyników finansowych i sytuacji majątkowej jednostki za określone, regularne okresy.
+
+Zasada istotności - mówi, że sprawozdanie finansowe powinno zawierać wszystkie istotne informacje, które mogą wpłynąć na decyzje użytkowników tych sprawozdań. Informacje są uznawane za istotne, jeśli ich pominięcie lub nieprawidłowe przedstawienie mogłoby zniekształcić obraz sytuacji finansowej jednostki.
+
+Zasada ciągłości (zasada kontynuacji) - zakłada, że jednostka będzie kontynuować swoją działalność gospodarczą w dającej się przewidzieć przyszłości, nie planując ani nie zmuszona do zaprzestania działalności lub istotnego jej ograniczenia.
+
+Zasada ostrożnej wyceny - polega na tym, że aktywa i przychody są wyceniane w sposób ostrożny, czyli raczej niższe niż wyższe, natomiast zobowiązania i koszty raczej wyższe niż niższe. Celem jest unikanie przeszacowania aktywów lub przychodów oraz niedoszacowania zobowiązań lub kosztów.
+
+Zasada wyższości treści nad formą - polega na prezentacji operacji gospodarczych zgodnie z ich rzeczywistą treścią i ekonomiczną rzeczywistością, a nie tylko zgodnie z ich prawną formą. Oznacza to, że operacje gospodarcze są przedstawiane w sprawozdaniach finansowych w sposób oddający ich prawdziwy charakter ekonomiczny.
+
+Zasada kontynuacji działalności - oznacza, że sprawozdania finansowe są sporządzane z założeniem, że jednostka będzie prowadzić działalność gospodarczą w dającej się przewidzieć przyszłości, bez zamiaru ani konieczności likwidacji lub znacznego ograniczenia zakresu działalności.
+
 2. Podmioty zobligowane do prowadzenia ksiąg rachunkowych
 
 Do prowadzenia ksiąg rachunkowych zobowiązane są m.in.:
@@ -38,6 +63,7 @@ Do prowadzenia ksiąg rachunkowych zobowiązane są m.in.:
 3. Pojęcia - MSR, MSSF, KSR - warunki stosowania
 
 MSR (Międzynarodowe Standardy Rachunkowości) i MSSF (Międzynarodowe Standardy Sprawozdawczości Finansowej) to standardy rachunkowości, które określają zasady sporządzania sprawozdań finansowych, obowiązujące na świecie. KSR (Krajowe Standardy Rachunkowości) to standardy obowiązujące w Polsce. Warunki stosowania zależą od rodzaju jednostki i jej działalności oraz wymogów prawnych.
+
 4. Biegły rewident – badanie ksiąg rachunkowych – podmioty zobligowane
 
 Biegły rewident to osoba uprawniona do badania sprawozdań finansowych. Badanie ksiąg rachunkowych przez biegłego rewidenta jest obowiązkowe dla:
