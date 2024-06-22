@@ -32,24 +32,6 @@ Odbiorcy:
     Kredytodawcy
     Organy podatkowe
 
-Zasady rachunkowości:
-
-Zasada memoriału - (zasada akrualna) oznacza, że operacje gospodarcze są ujmowane w księgach rachunkowych w momencie ich zaistnienia, niezależnie od terminu przepływu środków pieniężnych. Oznacza to, że przychody i koszty są rejestrowane w okresie, którego dotyczą, a nie wtedy, kiedy faktycznie następuje zapłata.
-
-Zasada współmierności - polega na przypisywaniu przychodów do okresu, w którym zostały osiągnięte, oraz odpowiednich kosztów do tych samych okresów. Oznacza to, że koszty poniesione w celu uzyskania określonych przychodów powinny być ujęte w tym samym okresie co te przychody.
-
-Zasada periodyzacji - (zasada okresowości) oznacza podział czasu na okresy obrachunkowe (np. miesiące, kwartały, lata), w ramach których rejestrowane są przychody i koszty. Daje to możliwość oceny wyników finansowych i sytuacji majątkowej jednostki za określone, regularne okresy.
-
-Zasada istotności - mówi, że sprawozdanie finansowe powinno zawierać wszystkie istotne informacje, które mogą wpłynąć na decyzje użytkowników tych sprawozdań. Informacje są uznawane za istotne, jeśli ich pominięcie lub nieprawidłowe przedstawienie mogłoby zniekształcić obraz sytuacji finansowej jednostki.
-
-Zasada ciągłości (zasada kontynuacji) - zakłada, że jednostka będzie kontynuować swoją działalność gospodarczą w dającej się przewidzieć przyszłości, nie planując ani nie zmuszona do zaprzestania działalności lub istotnego jej ograniczenia.
-
-Zasada ostrożnej wyceny - polega na tym, że aktywa i przychody są wyceniane w sposób ostrożny, czyli raczej niższe niż wyższe, natomiast zobowiązania i koszty raczej wyższe niż niższe. Celem jest unikanie przeszacowania aktywów lub przychodów oraz niedoszacowania zobowiązań lub kosztów.
-
-Zasada wyższości treści nad formą - polega na prezentacji operacji gospodarczych zgodnie z ich rzeczywistą treścią i ekonomiczną rzeczywistością, a nie tylko zgodnie z ich prawną formą. Oznacza to, że operacje gospodarcze są przedstawiane w sprawozdaniach finansowych w sposób oddający ich prawdziwy charakter ekonomiczny.
-
-Zasada kontynuacji działalności - oznacza, że sprawozdania finansowe są sporządzane z założeniem, że jednostka będzie prowadzić działalność gospodarczą w dającej się przewidzieć przyszłości, bez zamiaru ani konieczności likwidacji lub znacznego ograniczenia zakresu działalności.
-
 ##### 2. Podmioty zobligowane do prowadzenia ksiąg rachunkowych
 
 Do prowadzenia ksiąg rachunkowych zobowiązane są m.in.:
@@ -114,10 +96,23 @@ Zatwierdzanie i przechowywanie:
 
 ##### 7. Zasady rachunkowości
 
-    Memoriałowa: operacje gospodarcze są ujmowane w momencie ich zaistnienia.
-    Koszt historyczny: wycena aktywów i pasywów według kosztu ich nabycia.
-    Kontynuacja działalności: założenie, że jednostka będzie kontynuować działalność w dającej się przewidzieć przyszłości.
-    Współmierność przychodów i kosztów: przypisywanie kosztów do okresu, w którym zostały osiągnięte przychody.
+Zasady rachunkowości:
+
+Zasada memoriału - (zasada akrualna) oznacza, że operacje gospodarcze są ujmowane w księgach rachunkowych w momencie ich zaistnienia, niezależnie od terminu przepływu środków pieniężnych. Oznacza to, że przychody i koszty są rejestrowane w okresie, którego dotyczą, a nie wtedy, kiedy faktycznie następuje zapłata.
+
+Zasada współmierności - polega na przypisywaniu przychodów do okresu, w którym zostały osiągnięte, oraz odpowiednich kosztów do tych samych okresów. Oznacza to, że koszty poniesione w celu uzyskania określonych przychodów powinny być ujęte w tym samym okresie co te przychody.
+
+Zasada periodyzacji - (zasada okresowości) oznacza podział czasu na okresy obrachunkowe (np. miesiące, kwartały, lata), w ramach których rejestrowane są przychody i koszty. Daje to możliwość oceny wyników finansowych i sytuacji majątkowej jednostki za określone, regularne okresy.
+
+Zasada istotności - mówi, że sprawozdanie finansowe powinno zawierać wszystkie istotne informacje, które mogą wpłynąć na decyzje użytkowników tych sprawozdań. Informacje są uznawane za istotne, jeśli ich pominięcie lub nieprawidłowe przedstawienie mogłoby zniekształcić obraz sytuacji finansowej jednostki.
+
+Zasada ciągłości (zasada kontynuacji) - zakłada, że jednostka będzie kontynuować swoją działalność gospodarczą w dającej się przewidzieć przyszłości, nie planując ani nie zmuszona do zaprzestania działalności lub istotnego jej ograniczenia.
+
+Zasada ostrożnej wyceny - polega na tym, że aktywa i przychody są wyceniane w sposób ostrożny, czyli raczej niższe niż wyższe, natomiast zobowiązania i koszty raczej wyższe niż niższe. Celem jest unikanie przeszacowania aktywów lub przychodów oraz niedoszacowania zobowiązań lub kosztów.
+
+Zasada wyższości treści nad formą - polega na prezentacji operacji gospodarczych zgodnie z ich rzeczywistą treścią i ekonomiczną rzeczywistością, a nie tylko zgodnie z ich prawną formą. Oznacza to, że operacje gospodarcze są przedstawiane w sprawozdaniach finansowych w sposób oddający ich prawdziwy charakter ekonomiczny.
+
+Zasada kontynuacji działalności - oznacza, że sprawozdania finansowe są sporządzane z założeniem, że jednostka będzie prowadzić działalność gospodarczą w dającej się przewidzieć przyszłości, bez zamiaru ani konieczności likwidacji lub znacznego ograniczenia zakresu działalności.
 
 ##### 8. Polityka rachunkowości
 
