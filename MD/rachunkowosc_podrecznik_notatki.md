@@ -54,11 +54,11 @@ Zasada kontynuacji działalności - oznacza, że sprawozdania finansowe są spor
 
 Do prowadzenia ksiąg rachunkowych zobowiązane są m.in.:
 
-    Spółki handlowe (z o.o., akcyjne)
-    Spółdzielnie
-    Przedsiębiorstwa państwowe
-    Jednostki budżetowe
-    Osoby fizyczne prowadzące działalność gospodarczą, jeśli ich przychody za poprzedni rok podatkowy przekroczyły limit określony w ustawie (2 mln euro).
+- Spółki handlowe (z o.o., akcyjne)
+- Spółdzielnie
+- Przedsiębiorstwa państwowe
+- Jednostki budżetowe
+- Osoby fizyczne prowadzące działalność gospodarczą, jeśli ich przychody za poprzedni rok podatkowy przekroczyły limit określony w ustawie (2 mln euro).
 
 3. Pojęcia - MSR, MSSF, KSR - warunki stosowania
 
